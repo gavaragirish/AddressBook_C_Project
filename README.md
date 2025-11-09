@@ -46,7 +46,7 @@ It supports creating, displaying, searching, editing, deleting, saving, and load
 ## 📸 Output Preview
 
 ### 🖥️ Main Menu
-![Main Menu](add_contact.png)
+![Main Menu](menu.png)
 
 ### ➕ Adding a Contact
 ![Add Contact](add_contact.png)
@@ -57,6 +57,15 @@ It supports creating, displaying, searching, editing, deleting, saving, and load
 ### 🔍 Searching Contact
 ![Search Contact](search.png)
 
+### 💾 CSV File Storage
+![CSV File Storage](addressbookcsv.png)
+
 ---
+
+ 
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+
 
 ## 🗂️ File Structure
