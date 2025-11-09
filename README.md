@@ -58,7 +58,7 @@ It supports creating, displaying, searching, editing, deleting, saving, and load
 ![Search Contact](search.png)
 
 ### 💾 CSV File Storage
-![CSV File Storage](addressbookcsv.png)
+![CSV File Storage](address_csv.png)
 
 ---
 
