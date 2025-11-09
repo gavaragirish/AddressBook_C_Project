@@ -41,4 +41,22 @@ It supports creating, displaying, searching, editing, deleting, saving, and load
 
 ---
 
+---
+
+## 📸 Output Preview
+
+### 🖥️ Main Menu
+![Main Menu](add_contact.png)
+
+### ➕ Adding a Contact
+![Add Contact](add_contact.png)
+
+### 📋 Displaying Contacts
+![Display Contacts](display.png)
+
+### 🔍 Searching Contact
+![Search Contact](search.png)
+
+---
+
 ## 🗂️ File Structure
