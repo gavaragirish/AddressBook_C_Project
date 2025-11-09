@@ -1,6 +1,6 @@
 # 📘 Address Book Management System (C Project)
 
-### 👨‍💻 Developed by: Gavara Girish (25026_214)
+### 👨‍💻 Developed by: Gavara Girish 
 ### 🗓️ Date: 29/10/2025
 
 ---
